@@ -1,0 +1,7 @@
+[도메인모델과테이블_시퀀스.pdf](%B5%B5%B8%DE%C0%CE%B8%F0%B5%A8%B0%FA%C5%D7%C0%CC%BA%ED_%BD%C3%C4%F6%BD%BA.pdf)  
+[JPA활용_RESTAPI개발과성능최적화요약.pdf](JPA%C8%B0%BF%EB_RESTAPI%B0%B3%B9%DF%B0%FA%BC%BA%B4%C9%C3%D6%C0%FB%C8%AD%BF%E4%BE%E0.pdf)  
+[JPA활용_RESTAPI개발과성능최적화_202302.pdf](JPA%C8%B0%BF%EB_RESTAPI%B0%B3%B9%DF%B0%FA%BC%BA%B4%C9%C3%D6%C0%FB%C8%AD_202302.pdf)  
+[JPA활용_RESTAPI개발과성능최적화.docx](JPA%C8%B0%BF%EB_RESTAPI%B0%B3%B9%DF%B0%FA%BC%BA%B4%C9%C3%D6%C0%FB%C8%AD.docx)  
+[JavaPersistence.pdf](JavaPersistence.pdf)  
+[jpashop-app.zip](jpashop-app.zip)  
+[DataJPAStudent-master.zip](DataJPAStudent-master.zip)
