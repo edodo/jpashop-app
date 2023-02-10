@@ -3,6 +3,7 @@ package jpastudy.jpashop.repository;
 import java.util.List;
 
 import javax.persistence.EntityManager;
+import javax.persistence.TypedQuery;
 
 import org.springframework.stereotype.Repository;
 
